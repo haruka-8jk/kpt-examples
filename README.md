@@ -1,1 +1,1 @@
-# kpt packag examples
+# kpt package examples
