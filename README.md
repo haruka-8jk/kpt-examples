@@ -1,1 +1,1 @@
-# kptngnix
+# kpt packag examples
